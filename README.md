@@ -1,2 +1,2 @@
-# beeankha.github.io
-Bianca's blog and portfolio site
+# Bianca's GitHub Pages Site
+Blog and portfolio site
