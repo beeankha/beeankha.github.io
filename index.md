@@ -6,14 +6,14 @@
 
 * * *
 
-## [Blog](.resume.md)
+## [Blog](blog_index.md)
 
 ## [Professional Projects](professional_projects.md)
 
 ## [Personal Projects](personal_projects.md)
 
-## [Resume](.resume.md)
+## [Resume](resume.md)
 
-## [Contact](.contact.md)
+## [Contact](contact.md)
 
 * * *
