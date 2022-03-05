@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bianca Henderson's Website
+---
+
 # Bianca Henderson
 
 ## Software Engineer
