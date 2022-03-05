@@ -1,5 +1,3 @@
-## Contact Me!
-
 [![github](/images/octocat_leopard.png)](https://github.com/beeankha)
 
 [![twitter](/images/twitter.png)](https://twitter.com/bizonks)

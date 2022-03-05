@@ -14,6 +14,6 @@
 
 ## [Resume](resume.md)
 
-## [Contact](contact.md)
+## [Contact / Connect](contact.md)
 
 * * *
