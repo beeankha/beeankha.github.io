@@ -1,7 +1,5 @@
 # Bianca Henderson
 
-#### Durham, NC  &nbsp; `|`  &nbsp; 919-410-7140  &nbsp; `|`  &nbsp; <beeankha@gmail.com>  &nbsp; `|`  &nbsp; <https://github.com/beeankha>
-
 &nbsp;
 
 ## Summary of Skills
@@ -81,4 +79,4 @@
 
 ## GitHub Metrics
 
-[![github_metrics](https://github.githubassets.com/images/icons/emoji/octocat.png)](https://metrics.lecoq.io/about/beeankha)  &nbsp; 💬  &nbsp; Click on me to see Bianca's GitHub Metrics! &nbsp; 📊
+[![github_metrics](https://github.githubassets.com/images/icons/emoji/octocat.png)](https://metrics.lecoq.io/about/beeankha)  &nbsp; <---&nbsp; Click on Octocat to see Bianca's GitHub Metrics!  📊
