@@ -1,6 +1,6 @@
 # Bianca Henderson
 
-#### Durham, NC  &nbsp; `|`  &nbsp; 919-410-7140  &nbsp; `|`  &nbsp; <beeankha@gmail.com>  &nbsp; `|`  &nbsp; <github.com/beeankha>
+#### Durham, NC  &nbsp; `|`  &nbsp; 919-410-7140  &nbsp; `|`  &nbsp; <beeankha@gmail.com>  &nbsp; `|`  &nbsp; <https://github.com/beeankha>
 
 &nbsp;
 
@@ -76,3 +76,9 @@
 
 ### University of Central Florida, Orlando, FL
 #### Bachelor of Arts in English, _Magna Cum Laude_
+
+&nbsp;
+
+## GitHub Metrics
+
+[![github_metrics](https://github.githubassets.com/images/icons/emoji/octocat.png)](https://metrics.lecoq.io/about/beeankha)  &nbsp; 💬  &nbsp; Click on me to see Bianca's GitHub Metrics! &nbsp; 📊
