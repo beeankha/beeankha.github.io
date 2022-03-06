@@ -11,7 +11,7 @@ title: Bianca Henderson's Website
 
 * * *
 
-## [Blog](blog_index.md)
+## [Blog](https://beeankha.github.io/bianca_blog/)
 
 ## [Professional Projects](professional_projects.md)
 
