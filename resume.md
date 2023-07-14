@@ -3,7 +3,7 @@ layout: default
 title: Resume
 ---
 
-[`Back to home`](https://beeankha.github.io/)
+[`< Back`](https://beeankha.github.io/)
 
 * * *
 
