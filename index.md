@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bianca Henderson's Website
+title: Bianca's Website
 ---
 
 # Bianca Henderson
