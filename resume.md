@@ -1,6 +1,7 @@
-# Bianca Henderson
-
-&nbsp;
+---
+layout: default
+title: Resume
+---
 
 ## Summary of Skills
 

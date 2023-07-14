@@ -1,4 +1,7 @@
-# Professional 
+---
+layout: default
+title: Professional Projects
+---
 
 ## Talks and Presentations
 
