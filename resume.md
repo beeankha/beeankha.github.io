@@ -3,6 +3,10 @@ layout: default
 title: Resume
 ---
 
+[`Back to home`](https://beeankha.github.io/)
+
+* * *
+
 ## Summary of Skills
 
 #### **2 - 3 years**
@@ -74,3 +78,7 @@ title: Resume
 ## GitHub Metrics
 
 [![github_metrics](https://github.githubassets.com/images/icons/emoji/octocat.png)](https://metrics.lecoq.io/about/beeankha)  &nbsp; <---&nbsp; Click on Octocat to see Bianca's GitHub Metrics!  📊
+
+* * *
+
+[`Back to home`](https://beeankha.github.io/)

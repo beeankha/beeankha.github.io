@@ -3,6 +3,10 @@ layout: default
 title: Professional Projects
 ---
 
+[`Back to home`](https://beeankha.github.io/)
+
+* * *
+
 ## Talks and Presentations
 
 ### PyCon US
@@ -43,3 +47,7 @@ title: Professional Projects
 - [Getting Started: Workflow Job Templates](https://www.ansible.com/blog/getting-started-workflow-job-templates)
 - [Easy Integration Using Ansible Tower and Red Hat Insights](https://www.ansible.com/blog/easy-integration-using-ansible-tower-and-red-hat-insights)
 - [Connecting to a Windows Host](https://www.ansible.com/blog/connecting-to-a-windows-host)
+
+* * *
+
+[`Back to home`](https://beeankha.github.io/)
