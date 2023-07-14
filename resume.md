@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resume
+title: Bianca's Resume
 ---
 
 [`< Back`](https://beeankha.github.io/)
