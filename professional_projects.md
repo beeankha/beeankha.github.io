@@ -27,6 +27,7 @@ title: Professional Projects
 
     This presentation aims to simplify the process of writing a custom Ansible module; it is ideal for developers and sys admins of all levels who either currently use Ansible or have been curious about using it in the future. This presentation will break down the process of converting your already-existing Python scripts into custom modules in order to expand Ansible's functionality for your workflow!
 
+* * *
 
 # Blog Posts
 
