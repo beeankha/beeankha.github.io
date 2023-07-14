@@ -11,14 +11,14 @@ title: Bianca's Website
 
 * * *
 
-## [Blog](https://www.iloveprimenumbers.com/)
+## 💻 [Blog](https://www.iloveprimenumbers.com/)
 
-## [Professional Projects](professional_projects.md)
+## ⚒️ [Professional Projects](professional_projects.md)
 
-## [Personal Projects](personal_projects.md)
+## 🎨 [Personal Projects](personal_projects.md)
 
-## [Resume](resume.md)
+## 📄 [Resume](resume.md)
 
-## [Contact / Connect](contact.md)
+## ☎️ [Contact / Connect](contact.md)
 
 * * *
