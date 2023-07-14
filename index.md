@@ -11,7 +11,7 @@ title: Bianca Henderson's Website
 
 * * *
 
-## [Blog](https://beeankha.github.io/bianca_blog/)
+## [Blog](https://www.iloveprimenumbers.com/)
 
 ## [Professional Projects](professional_projects.md)
 
