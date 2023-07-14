@@ -1,3 +1,4 @@
-# Bianca's GitHub Pages Site
+# Bianca's Website
+### 🤖 🏢 👔
 
-## 🚧 Very Seriously Under Construction! 🚧
+This is my [silly little website](https://beeankha.github.io/).
