@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Information
+title: Contact / Connect
 ---
 
 [![github](/images/octocat_leopard.png)](https://github.com/beeankha) [![linkedin](/images/linkedin.png)](https://www.linkedin.com/in/beeankha/)
