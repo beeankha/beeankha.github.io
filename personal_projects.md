@@ -28,6 +28,7 @@ _From the most excellent [Python Crash Course](https://nostarch.com/python-crash
 
 ## [Danger Rooms (and other games)](https://github.com/beeankha/SimplePythonStuff/tree/main/Games#games)
 
+* * *
 
 # Things I've Packaged 📦
 ## Command Line Tarot
@@ -36,6 +37,8 @@ _From the most excellent [Python Crash Course](https://nostarch.com/python-crash
 
 ### [GitHub Repository](https://github.com/beeankha/command_line_tarot)
 ### [PyPI Page](https://pypi.org/project/cli-tarot/)
+
+* * *
 
 # Misc. Technical Projects
 
