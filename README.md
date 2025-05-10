@@ -1,4 +1,4 @@
 # Bianca's Website
 ### 🤖 🏢 👔
 
-This is my [silly little website](https://beeankha.github.io/).
+This is my [simple little website](https://beeankha.github.io/).
