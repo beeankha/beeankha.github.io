@@ -84,12 +84,6 @@ title: Bianca's Resume
 ### University of Central Florida, Orlando, FL
 #### Bachelor of Arts in English, _Magna Cum Laude_
 
-&nbsp;
-
-## GitHub Metrics
-
-[![github_metrics](https://github.githubassets.com/images/icons/emoji/octocat.png)](https://metrics.lecoq.io/about/beeankha)  &nbsp; <---&nbsp; Click on Octocat to see Bianca's GitHub Metrics!  📊
-
 * * *
 
 [`Back to home`](https://beeankha.github.io/)
